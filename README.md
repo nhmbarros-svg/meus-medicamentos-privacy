@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Política de Privacidade — Meus Medicamentos</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 20px; color: #333; max-width: 800px; margin: auto; }
-        h1, h2, h3 { color: #004D40; }
-        hr { border: 0; height: 1px; background: #ccc; margin: 20px 0; }
-    </style>
-</head>
-<body>
-
 <h1>POLÍTICA DE PRIVACIDADE — MEUS MEDICAMENTOS</h1>
 <p><strong>Última atualização:</strong> 6 de setembro de 2026</p>
 
