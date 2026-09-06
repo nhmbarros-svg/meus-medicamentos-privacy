@@ -42,6 +42,4 @@
     <li><strong>Aplicativo:</strong> Meus Medicamentos</li>
     <li><strong>Localidade:</strong> Pinheiral - RJ, Brasil</li>
 </ul>
-
-</body>
 </html>
